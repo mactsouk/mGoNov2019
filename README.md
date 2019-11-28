@@ -1,2 +1,2 @@
 # mGoNov2019
-Go meetup November 2019
+Athens Go meetup November 2019
